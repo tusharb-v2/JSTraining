@@ -1,7 +1,7 @@
 const displayNumber = document.getElementById('numValueBox');
 
 var dataContent = {
-    number: 0,
+    number: 0, 
     set setNumber(a) {
         this.number = a;
     },
